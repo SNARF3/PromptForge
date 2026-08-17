@@ -8,7 +8,7 @@
 
 | Integrante | Responsabilidad inicial | Disponibilidad | Restricción |
 |---|---|---|---|
-| Marvin Mollo (Pepe) | Modelo / IA — entrenamiento del modelo de precio, integración Gemini | Sáb-Dom + feriados nacionales | Prácticas preprofesionales, clases toda la semana |
+| Marvin Mollo | Modelo / IA — entrenamiento del modelo de precio, integración Gemini | Sáb-Dom + feriados nacionales | Prácticas preprofesionales, clases toda la semana |
 | Leonardo Delgado | Ingeniería — FastAPI, job nocturno, contenedores, despliegue | Sáb-Dom + feriados nacionales | Prácticas preprofesionales, clases toda la semana |
 | Samuel Villca | Datos / Producto — limpieza de dataset, backlog, interfaz | Sáb-Dom + feriados nacionales | Prácticas preprofesionales, clases toda la semana |
 
